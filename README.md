@@ -1,4 +1,4 @@
-# Forecasts-and-Predictions
+# Automation
 This project is a part of the [Data Analyst Course](https://practicum.yandex.com/profile/data-analyst/).
 
 #### -- Project Status: [Completed]
